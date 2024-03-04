@@ -1,4 +1,5 @@
 # ChatGPT×テキストマイニング(事前準備)
+#開発環境はGoogle colaboratory
 #naoki abe
 
 #Mecabをインストール
