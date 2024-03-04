@@ -1,5 +1,5 @@
-# Naoki
-#ChatGpt×テキストマイニング(準備)
+# ChatGPT×テキストマイニング(事前準備)
+#naoki abe
 
 #Mecabをインストール
 !apt install aptitude
