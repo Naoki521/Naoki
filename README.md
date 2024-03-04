@@ -1,0 +1,2 @@
+# Naoki
+ChatGpt×テキストマイニング
